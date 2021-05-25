@@ -33,7 +33,6 @@ To install capacity_mapping from GitHub repository, do:
 ```console
 git clone https://github.com/FAIR-data-for-CAPACITY /capacity-mapping.git
 cd capacity-mapping
-python3 -m pip install .
 ```
 
 ## Documentation
