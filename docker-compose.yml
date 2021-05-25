@@ -1,0 +1,28 @@
+version: "3"
+
+services:
+  hapi:
+    image: "hapiproject/hapi:latest"
+    ports:
+      - "8080:8080"
+    environment:
+      - hapi.fhir.fhir_version=DSTU3
+      - hapi.fhir.enable_cql=true
+      - hapi.fhir.allow_external_references=true
+      - hapi.fhir.allow_contains_searches=true
+      - hapi.fhir.graphql_enabled=true
+      - hapi.fhir.allow_placeholder_references=true
+      - hapi.fhir.filter_search_enabled=true
+      - hapi.fhir.refuse_to_fetch_third_party_urls=false
+
+  import:
+    depends_on:
+      - hapi
+    build:
+      context: https://github.com/FAIR-data-for-CAPACITY/capacity-hapi-fhir.git
+    environment:
+      - BASE_URL=http://hapi:8080/fhir
+      - FHIR_VERSION=STU3
+      - FHIRCLIENT_VERSION=3.0.0
+
+
