@@ -13,18 +13,13 @@ Combines all the steps of uploading ehr to capacity
 
 The project setup is documented in [project_setup.md](project_setup.md). Feel free to remove this document (and/or the link to this document) if you don't need it.
 
-## Installation
-
-To install capacity_mapping from GitHub repository, do:
+To run capacity_mapping from GitHub repository, do:
 
 ```console
 git clone https://github.com/FAIR-data-for-CAPACITY /capacity-mapping.git
 cd capacity-mapping
+docker-compose up
 ```
-
-## Documentation
-
-Include a link to your project's full documentation here.
 
 ## Contributing
 
