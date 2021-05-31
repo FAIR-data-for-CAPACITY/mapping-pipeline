@@ -4,7 +4,6 @@
 | :-- | :--  |
 | code repository              | [![github repo badge](https://img.shields.io/badge/github-repo-000.svg?logo=github&labelColor=gray&color=blue)](https://github.com/FAIR-data-for-CAPACITY/capacity-mapping) |
 | license                      | [![github license badge](https://img.shields.io/github/license/FAIR-data-for-CAPACITY/capacity-mapping)](https://github.com/FAIR-data-for-CAPACITY/capacity-mapping) |
-er>/badge)](https://bestpractices.coreinfrastructure.org/projects/<replace-with-created-project-identifier>) |
 | howfairis                          | [![fair-software badge](https://img.shields.io/badge/fair--software.eu-%E2%97%8F%20%20%E2%97%8F%20%20%E2%97%8F%20%20%E2%97%8F%20%20%E2%97%8B-yellow)](https://fair-software.eu) |
 
 
