@@ -7,7 +7,7 @@
 | howfairis                          | [![fair-software badge](https://img.shields.io/badge/fair--software.eu-%E2%97%8F%20%20%E2%97%8F%20%20%E2%97%8F%20%20%E2%97%8F%20%20%E2%97%8B-yellow)](https://fair-software.eu) |
 
 
-## How to use capacity_mapping
+## How to use mapping-pipeline
 
 Combines all the steps of uploading ehr to capacity 
 
