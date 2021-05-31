@@ -2,21 +2,13 @@
 
 | fair-software.eu recommendations | |
 | :-- | :--  |
-| (1/5) code repository              | [![github repo badge](https://img.shields.io/badge/github-repo-000.svg?logo=github&labelColor=gray&color=blue)](https://github.com/FAIR-data-for-CAPACITY /capacity-mapping) |
-| (2/5) license                      | [![github license badge](https://img.shields.io/github/license/FAIR-data-for-CAPACITY /capacity-mapping)](https://github.com/FAIR-data-for-CAPACITY /capacity-mapping) |
-| (3/5) community registry           | [![RSD](https://img.shields.io/badge/rsd-capacity_mapping-00a3e3.svg)](https://www.research-software.nl/software/capacity_mapping)  |
+| (1/5) code repository              | [![github repo badge](https://img.shields.io/badge/github-repo-000.svg?logo=github&labelColor=gray&color=blue)](https://github.com/FAIR-data-for-CAPACITY/capacity-mapping) |
+| (2/5) license                      | [![github license badge](https://img.shields.io/github/license/FAIR-data-for-CAPACITY/capacity-mapping)](https://github.com/FAIR-data-for-CAPACITY/capacity-mapping) |
+| (3/5) community registry           | [![RSD](https://img.shields.io/badge/rsd-capacity_mapping-00a3e3.svg)](https://www.research-software.nl/software/capacity_mapping) [![workflow pypi badge](https://img.shields.io/pypi/v/capacity_mapping.svg?colorB=blue)](https://pypi.python.org/project/capacity_mapping/) |
 | (4/5) citation                     | [![DOI](https://zenodo.org/badge/DOI/<replace-with-created-DOI>.svg)](https://doi.org/<replace-with-created-DOI>) |
 | (5/5) checklist                    | [![workflow cii badge](https://bestpractices.coreinfrastructure.org/projects/<replace-with-created-project-identifier>/badge)](https://bestpractices.coreinfrastructure.org/projects/<replace-with-created-project-identifier>) |
 | howfairis                          | [![fair-software badge](https://img.shields.io/badge/fair--software.eu-%E2%97%8F%20%20%E2%97%8F%20%20%E2%97%8F%20%20%E2%97%8F%20%20%E2%97%8B-yellow)](https://fair-software.eu) |
-| **Other best practices**           | &nbsp; |
-| Static analysis                    | [![workflow scq badge](https://sonarcloud.io/api/project_badges/measure?project=FAIR-data-for-CAPACITY _capacity-mapping&metric=alert_status)](https://sonarcloud.io/dashboard?id=FAIR-data-for-CAPACITY _capacity-mapping) |
-| Coverage                           | [![workflow scc badge](https://sonarcloud.io/api/project_badges/measure?project=FAIR-data-for-CAPACITY _capacity-mapping&metric=coverage)](https://sonarcloud.io/dashboard?id=FAIR-data-for-CAPACITY _capacity-mapping) |
-| Documentation                      | [![Documentation Status](https://readthedocs.org/projects/capacity-mapping/badge/?version=latest)](https://capacity-mapping.readthedocs.io/en/latest/?badge=latest) |
-| **GitHub Actions**                 | &nbsp; |
-| Build                              | [![build](https://github.com/FAIR-data-for-CAPACITY /capacity-mapping/actions/workflows/build.yml/badge.svg)](https://github.com/FAIR-data-for-CAPACITY /capacity-mapping/actions/workflows/build.yml) |
-| Citation data consistency               | [![cffconvert](https://github.com/FAIR-data-for-CAPACITY /capacity-mapping/actions/workflows/cffconvert.yml/badge.svg)](https://github.com/FAIR-data-for-CAPACITY /capacity-mapping/actions/workflows/cffconvert.yml) |
-| SonarCloud                         | [![sonarcloud](https://github.com/FAIR-data-for-CAPACITY /capacity-mapping/actions/workflows/sonarcloud.yml/badge.svg)](https://github.com/FAIR-data-for-CAPACITY /capacity-mapping/actions/workflows/sonarcloud.yml) |
-| MarkDown link checker              | [![markdown-link-check](https://github.com/FAIR-data-for-CAPACITY /capacity-mapping/actions/workflows/markdown-link-check.yml/badge.svg)](https://github.com/FAIR-data-for-CAPACITY /capacity-mapping/actions/workflows/markdown-link-check.yml) |
+
 
 ## How to use capacity_mapping
 
